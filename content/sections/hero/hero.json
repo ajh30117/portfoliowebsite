@@ -1,20 +1,20 @@
 {
-  "intro": "Hi",
+  "intro": "",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
-  "title": "I'm Anna Humphrey ",
+  "title": "Technical Writer and UX Writer ",
   "subtitle": {
-    "prefix": "Technical and UX Writer ",
-    "highlight": "for you",
+    "prefix": "For  ",
+    "highlight": "enterprise SaaS",
     "suffix": "."
   },
-  "description": "For cybersecurity and enterprise SaaS.",
+  "description": "Creating simple, concise, user-driven content.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
