@@ -1,74 +1,57 @@
 ---
-title: "This is an exemplary article for the blog."
-description: "This description will be used for the article listing and search results on Google."
-date: "2021-05-28"
+title: "Book Review: Deep Work by Cal Newport"
+description: "Book Review - Design for How People Learn."
+date: "2021-10-11"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-  alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  src: "../../images/alex-eckermann-W_K6j6OQBDg-unsplash.jpg"
+  alt: "Design"
+  caption: 'Photo by <u><a href="https://unsplash.com/@alexeckermann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Eckermann</a></u>'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "Book Review"
+  - "User Experience"
 keywords:
-  - "Example"
-  - "Gatsby"
-  - "Markdown"
-  - "Blog"
+  - "Learning Design"
+  - "UX Writing"
+  - "Information Architecture"
+  - "User research"
 ---
 
-## Code block test
+In *Deep Work* Cal Newport, a professor of computer science at Georgetown University, drives home the power of harnessing deep work to achieve personal and professional success. He insists that deep work is becoming a rare commodity in the swamp of email, social media, and busywork that many knowledge workers find themselves stuck in. And with the rise of Web 2.0, people are becoming more aware of the many distractions fighting for space in today’s attention economy. 
 
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
+The conversation around attention and deep work continues to grow, and Newport pushes it to an insightful new level. His writing is also persuasive — he bothers readers with images of time, energy, and genius lost to modern mindlessness, insisting deep work is the answer to true productivity.
 
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
+My biggest criticism of *Deep Work* is that Newport sometimes fails to back up his urgent claims with substantive research. Some of the evidence he provides is useful, but other pieces seem repetitive or hackneyed. 
 
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
+My second critcism is that Newport’s advice on increasing deep work productivity is almost completely tailored to the lifestyle and habits of an academic, and this stunts his ability to resonate with a broader audience. 
 
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-```
+Due to the lacking research and narrow range, the book’s full effect doesn’t quite do justice to the intrigue and exigency of its premise. That said, *Deep Work* definitely inspired me to rethink my work habits, and is in my opinion well worth the read.
 
-Inline code: `print()`
+## Breakdown
 
-Lorem ipsum dolor sit amed Vel ut spiritday all cultural Lili Elbe lorem in sexuality Herstory sit lorem Ac Genderless homoflexible trans Carrie Fisher Transgender love family cross-dresser ac a ut Ac xe she ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners Ipsum Chimamanda Ngozi sed sit Equal movement gender ut est lorem Laura Jane Grace Emma Watson sem eu.
+### Part 1: The Idea
 
-**Maria Montessori vel sem in eu Leelah Alcorn** In eu Leelah Alcorn in Margaret Sanger future Martha Nussbaum eu gender non-conformity Family cross-dresser ac a ut representation drag queen Ac third wave Hannah Gadsby culture feminismus ac suffragette cisgender in a eu Ac a ut representation drag queen Out Lorem ac no means no f word sed Emmeline Pankhurst.
+Part 1 is broken into three chapters: “Deep Work is Valuable,” “Deep Work is Rare,” and “Deep Work is Meaningful.” I had already gathered these things from the eighteen-page introduction (hell, maybe even the cover page), in which Newport details — almost excruciatingly — the importance of deep work. I feel a bit redundant even writing this. These chapters could easily be condensed into one. Somewhere in the second chapter I began to sense that I was reading filler — an anxiety unalleviated by the book’s hefty pages, spacious text and generous margins (the book bordered on being downright unwieldy). By the third chapter I’d identified the primary value this book would provide: to bring the issue of deep work to the surface of my consciousness and convince me that I needed to be doing more of it. It was not until Part 2 that I fully realized what the book would not provide: convincing and scientific evidence explaining why deep work was important. . . and how to do it.
 
-## Second Headline
+### Part 2: The Rules
 
-Est vel est appreciation Nadia Murad Basee Taha cross-dressing vel Ut mi sit ut eu id Samira Wiley sit vel sem Ut romance in gender studies ballroom Sit lorem ac no means no f word sed Emmeline Pankhurst Ac sorellanza In Lea Delaria in grrlpwr pansexual intersectional yas queen diritti id mi Sem Audre Lorde Sappho in sed et empowerment genderqueer intersex.
+Newport’s methods for accomplishing the goal of producing more deep work were often too arbitrary and personalized to his own livelihood and lifestyle to be adopted (at least effectively) by a wide audience. Many of Newport’s rules seemed mostly to apply to fellow academics with teaching responsibilities and publishing deadlines. The book seemed to target an audience of fellow professors and academics, not the growing masses of “knowledge workers” Newport often references, who have no need to work out mathematical proofs in their heads during morning walks or concern themselves with how to schedule teaching time versus research time per calender year. However, Newport did offer some tips that I found useful. The following are some of those:
 
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
+- be conscious and deliberate about social media consumption
+- add routine and ritual to your deep work endeavors
+- use “grand gestures” to leverage inspiration and commitment to a goal
+- allow leisure time to recharge energy and attention
+- “embrace boredom” — resist constant distraction (phone, laptop, music) to improve concentration
 
-Feminizmas eu Dian Fossey ac third wave notion supporting androgyny dui ut People a Sylvia Plath mi sex-positivity demisexual a equality suffragettes pronouns Vel est appreciation Nadia Murad Basee Taha cross-dressing vel Sustainability ut sit dui Lesbians and Gays Support the Miners local eu Hanna Gaby Odiele est queer Misty Copeland She ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners local Equal ac et ut romance in Second wave sit friendship grl pwr castro.
+I thought these were good, actionable pieces advice that I could apply to my own life, but other “rules” were rather out of reach. I remember laughing at Newport’s proposition of a memory exercise that involved walking through five rooms in your home and then perhaps into your backyard. (I live in a modest studio apartment in Southeast Asia and have seen neither hide nor hair of a backyard in months). Combined with generous doses of info on how CEOs handle email, how academics optimize publication rates and of course, Bill Gates, it is moments like that Newport’s connection with his audience potentially falters and some readers may be left wondering if this book is for them.
 
-### Third Headline
+Additionally, there is entirely too much time devoted to discussing email. I suspect Newport may be a bit deeper in his addiction to email than the majority of his readers. As someone who does not have an addiction to email, I found all the advice on this topic useless and was agitated to see email-talk creep insidiously into every chapter.
 
-Vel sem Sed Roxane Gay Caitlin Moran Ace id Amelia Earhart Gloria Steinem Samira Wiley sit Amelia Earhart Gloria Steinem eu In et ac in Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility Dance Simone de Beauvoir eu sem.
+I appreciated Rule #3’s discussion on social media. Contrary to what the rule's name (Quit Social Media) suggests, Newport does not promote a point-blank refutation of social media and its potential benefits. Instead, he argues that one should scrutinize their use of each social media platform on the criterion of the value it offers as a tool for achieving personal or professional goals. Emphasis on goals — he completely disregards the use of social media for entertainment, art, or relaxation. 
 
-#### Fourth Headline
+I was slightly disappointed that Newport didn’t touch at all upon the stealthy al/lure of platforms like Google, Youtube, Instagram, and Facebook — internet intermediaries who rely on algorithms to draw consumers in, feed them endless loops of content, and completely hijack attention. Here, I think Newport missed an opportunity to help readers weaponize this knowledge and push back against the influence of Web 2.0 monopolies, a threat that only fortifies the hazards of mindless media consumption. 
 
-Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility dui et voices Stonewall Inn sem et Ac pride month lorem et eu dui sit eu ut Eu ut Et in lorem id sed Id Kate Bornstein smash the patriarchy et et eu motivational ut In Chimamanda Ngozi sed sit strength.
+As a psychology enthusiast, I also would have appreciated more science on boredom, attention training, how constant distraction shapes cognition, and the benefits of meditation (beyond Newport’s personally acclaimed think-walk). However, Newport is a computer scientist — not a neuroscientist — so it’s understandable that much of his advice relies on empirical evidence and popular psychology instead of harder-hitting science. 
 
-![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
+### Summary
 
-Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola.
+After reading this book, I'm convinced I need to increase my attentional capacity and create more space for deep work in my life, and that doing so will help me reach my personal and professional goals faster. However, I probably won't be following Newport’s methods, and I won't be relying on his cited research to understand the science of attention. I think most people can benefit from reading this *Deep Work*, but I view it as a springboard — not a field guide — for exploring limits of productivity.
