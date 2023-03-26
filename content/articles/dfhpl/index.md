@@ -1,75 +1,78 @@
 ---
-title: "Book Review: Design for How People Learn by Julie Dirkson"
-description: "Book Review - Deep Work: Rules for Focused Success in a Distracted World."
-date: "2021-10-11"
+title: "Book Review: Design for How People Learn (Voices that Matter) by Julie Dirkson"
+description: "Book Review - Design for How People Learn (Voices that Matter)"
+date: "2022-01-28"
 banner:
   src: "../../images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg"
   alt: "Deep Work"
-  caption: 'Photo by <u><a href="https://unsplash.com/@kimberlyfarmer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kimberly Farmer</a></u>
+  caption: 'Photo by <u><a href="https://unsplash.com/@kimberlyfarmer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kimberly Farmer</a></u>'
   
 categories:
   - "Book Review"
-  - "Productivity"
+  - "User Experience"
 keywords:
-  - "Deep work"
-  - "Productivity"
-  - "Attention"
-  - "Work"
+  - "Learning Design"
+  - "UX Writing"
+  - "Information Architecture"
+  - "User research"
 ---
+Julie Dirkson’s *Design for How People Learn* is a refreshingly accessible guide on crafting effective learning experiences. Written for both novice and experienced designers, it’s an engaging, compact, yet comprehensive survey of the fundamental practices any designer should consider when thinking about how to best help people learn. 
 
-## Code block test
+Dirkson combines information and research from the fields of instructional design, psychology, neuroscience, and information architecture to support the concepts she details in each chapter. The book is easy to digest and includes attractive charts, graphs, dialogues, and other visual representations to simplify and reinforce concepts. Dirkson writes using the very lessons that comprise the book’s contents to optimize her own readers’ learning experiences.
 
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
+Every chapter contains valuable information about the mechanics that underlie learning. I particularly appreciated the way Dirkson weaves science and research into her explanations of each topic. For instance, in her discussion of learning styles, she makes sure to point out that while learning styles do play a role in education, the conventional VARK (Visual, Auditory, Reading, Kinesthetic) model is not currently scientifically supported and for the most part, people are better defined by the similarities in how they learn than by the differences. It was refreshing to see a widely-accepted learning model such as VARK evaluated with modern scientific objectivity.
 
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
+Below are notes from each chapter that I found most valuable and actionable (in my work as a copywriter and technical writer).
 
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
+## Chapter 2: Who are your learners?
 
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-```
+The discussion of mental models was very useful. Information processing is important. Help learners process and remember information by providing a logical way for them to structure it (closet and shelves analogy).
 
-Inline code: `print()`
+## Chapter 3: What's the goal?
 
-Lorem ipsum dolor sit amed Vel ut spiritday all cultural Lili Elbe lorem in sexuality Herstory sit lorem Ac Genderless homoflexible trans Carrie Fisher Transgender love family cross-dresser ac a ut Ac xe she ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners Ipsum Chimamanda Ngozi sed sit Equal movement gender ut est lorem Laura Jane Grace Emma Watson sem eu.
+It’s important to define specific learning goals in learning objectives. Use actionable verbs!
 
-**Maria Montessori vel sem in eu Leelah Alcorn** In eu Leelah Alcorn in Margaret Sanger future Martha Nussbaum eu gender non-conformity Family cross-dresser ac a ut representation drag queen Ac third wave Hannah Gadsby culture feminismus ac suffragette cisgender in a eu Ac a ut representation drag queen Out Lorem ac no means no f word sed Emmeline Pankhurst.
+Good survey of learning scales (Will Thalheimer taxonomy of learning objectives, Gloria Gery learning scales and Bloom’s taxonomy). Something I found interesting was Dirkson’s synthesis of the Gloria Gery scales and Bloom’s Taxonomy into the X and Y axes of a proficiency graph.
 
-## Second Headline
+“Pace layering”—understanding the difference between what progress learners can make short-term versus long-term. In other words, fast and slow skills. Design for either type of skill. Don’t expect learners to be able to change their foundation quickly.
 
-Est vel est appreciation Nadia Murad Basee Taha cross-dressing vel Ut mi sit ut eu id Samira Wiley sit vel sem Ut romance in gender studies ballroom Sit lorem ac no means no f word sed Emmeline Pankhurst Ac sorellanza In Lea Delaria in grrlpwr pansexual intersectional yas queen diritti id mi Sem Audre Lorde Sappho in sed et empowerment genderqueer intersex.
+## Chapter 4: How do we remember?
 
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
+Context-based learning is key. I’m familiar with this knowledge from my undergraduate research in language acquisition as well as from my foreign language studies. It’s well-proven.
 
-Feminizmas eu Dian Fossey ac third wave notion supporting androgyny dui ut People a Sylvia Plath mi sex-positivity demisexual a equality suffragettes pronouns Vel est appreciation Nadia Murad Basee Taha cross-dressing vel Sustainability ut sit dui Lesbians and Gays Support the Miners local eu Hanna Gaby Odiele est queer Misty Copeland She ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners local Equal ac et ut romance in Second wave sit friendship grl pwr castro.
+The best way to get better at something is to do it. For instance, it’s necessary to practice retrieval, not just recognition, in order to be able to retrieve.
 
-### Third Headline
+## Chapter 5: How do you get their attention?
 
-Vel sem Sed Roxane Gay Caitlin Moran Ace id Amelia Earhart Gloria Steinem Samira Wiley sit Amelia Earhart Gloria Steinem eu In et ac in Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility Dance Simone de Beauvoir eu sem.
+I was happy to see Dirkson acknowledge the modern culture of distraction.
 
-#### Fourth Headline
+I was skeptical of her discussion of the “elephant model”—two modules of control in the brain (rider versus elephant or rational versus emotional). This model is controversial. A lot of modern science supports a more fluid conception of rationality & emotion.
 
-Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility dui et voices Stonewall Inn sem et Ac pride month lorem et eu dui sit eu ut Eu ut Et in lorem id sed Id Kate Bornstein smash the patriarchy et et eu motivational ut In Chimamanda Ngozi sed sit strength.
+Dirkson discussed the impact of the ego on learning—it’s important to make people the heroes of their own stories. This point is widely supported by psychology—humans are very self-focused; they like to be the hero/cast themselves as the hero of their own story.
 
-![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
+Other ways to optimize learning:
 
-Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola.
+Increase emotional resonance.
+Use social learning—we learn better together.
+Use effective visuals—visuals should help distribute the cognitive load.
+Intrinsic motivation triumphs over extrinsic motivation. Give learners autonomy.
+
+## Chapter 6: Design for knowledge
+
+I disagree with Dirkson’s take on cognitive load. She advises mediating cognitive load, asserting that “aside from the constraints of hunger, fatigue, and bathroom breaks, there’s really no limit on someone’s potential attention span” (173). Modern research on attention span and cognitive load suggests the opposite—that intense focus is a limited resource.
+
+## Chapter 7: Design for skills
+
+Dirkson explains that learning practice ideally allows learners a balance of challenge and satisfaction (flow/edge between challenge and ability). It’s important to allow learners to take breaks and coast occasionally.
+
+## Chapter 8: Design for motivation
+
+The power of habits!
+
+## Conclusion
+
+My criticisms of *Design for How People Learn* are sparse. The few I have mostly revolve around the inclusion of science that is either ill-founded, outdated, or applied in a reductive way. The writing also falters at times—there are some proofreading errors and some writing is unclear—which detracts from the author’s message and ethos, but only minorly.
+
+Ultimately, the book provides a thorough and multi-dimensional survey of different lenses through which we can understand learning and discusses how we can use those perspectives to optimize the learning process. Dirkson also notes several related books and studies that readers can explore.
+
+*Design for How People Learn* is not only for those in the business of learning or curriculum design. For instance, I found the content applicable to my work as a technical writer, editor, and copywriter. Much of it also overlapped with my studies in rhetoric and psychology, but I believe its relevance extends even more broadly. Processing, reacting to, and integrating new information are central functions in our daily lives. In fact, they’re integral to our social, emotional, and intellectual development. This book is a valuable read for anyone interested in taking a deeper look at those phenomena.

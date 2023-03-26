@@ -1,6 +1,6 @@
 ---
 title: "Book Review: Deep Work by Cal Newport"
-description: "Book Review - Design for How People Learn."
+description: "Book Review - Deep Work: Rules for Focused Success in a Distracted World"
 date: "2021-10-11"
 banner:
   src: "../../images/alex-eckermann-W_K6j6OQBDg-unsplash.jpg"
@@ -8,12 +8,12 @@ banner:
   caption: 'Photo by <u><a href="https://unsplash.com/@alexeckermann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Eckermann</a></u>'
 categories:
   - "Book Review"
-  - "User Experience"
+  - "Productivity"
 keywords:
-  - "Learning Design"
-  - "UX Writing"
-  - "Information Architecture"
-  - "User research"
+  - "Deep work"
+  - "Productivity"
+  - "Attention"
+  - "Work"
 ---
 
 In *Deep Work* Cal Newport, a professor of computer science at Georgetown University, drives home the power of harnessing deep work to achieve personal and professional success. He insists that deep work is becoming a rare commodity in the swamp of email, social media, and busywork that many knowledge workers find themselves stuck in. And with the rise of Web 2.0, people are becoming more aware of the many distractions fighting for space in today’s attention economy. 
