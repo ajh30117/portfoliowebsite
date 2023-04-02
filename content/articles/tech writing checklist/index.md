@@ -4,7 +4,7 @@ description: "Technical Writing Checklist"
 date: "2022-02-19"
 banner:
   src: "../../images/joanna-kosinska-1_CMoFsPfso-unsplash.jpg"
-  alt: "Deep Work"
+  alt: "Checklist"
   caption: 'Photo by <u><a href="https://unsplash.com/@joannakosinska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joanna Kosinska</a></u>'
   
   

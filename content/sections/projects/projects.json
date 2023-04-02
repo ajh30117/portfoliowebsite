@@ -2,47 +2,85 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "TECHNICAL WRITING",
+      "title": "1972 Yamaha CS3 Carburetor Removal Manual",
+      "description": "This is an instruction manual I wrote for Saints Cycle Works, a vintage motorcycle shop I worked at. The manual guides a user through basic carburetor removal in preparation for cleaning. The target audience is new bike mechanics or hobbyists.",
+      "tags": ["User Manual", "Instructions"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/yamaha.jpg",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing"
       },
       "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
+        
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "TECHNICAL WRITING",
+      "title": "Getting Started with Phishing Simulation",
+      "description": "This is a Getting Started page I wrote (along with all of its child topics) for Trend Vision One's new Phishing Simulation feature. I regularly contribute to the Vision One Online Help for various apps and features. Our documentation toolchain consists of DITA XML, Oxygen, Git/GitHub, and an internal CMS to generate output.",
+      "tags": ["Online Help", "Getting Started", "Cybersecurity"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/anne-nygard-viq9Ztqi3Vc-unsplash.jpg",
+        "caption": "Photo by <u><a href=https://unsplash.com/@polarmermaid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>Anne Nygård</a></u>.",
+        "alt": "Phishing",
+        "linkTo": "https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/assessment-part/security-assessment/phishing-simulation-/getting-started-phis.aspx"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/assessment-part/security-assessment/phishing-simulation-/getting-started-phis.aspx"
         }
       ]
-    }
-  ],
+    },
+  {
+    "visible": true,
+    "category": "B2B Tech Marketing",
+    "title": "With generational change, Taiwan’s King Steel transforms into an innovation and sustainability leader",
+    "description": "This is a Microsoft case study on King Steel, a Taiwanese machinery manufacturing company that's helping driving sustainability in the shoe manufacturing industry with their injection molding technology. I edited this piece, and later wrote web copy for King Steel's English website.",
+    "tags": ["B2B", "Editing", "Sustainability"],
+    "image": {
+      "src": "../../images/kingsteel1.jpg",
+      "alt": "King Steel employees",
+      "linkTo": "https://news.microsoft.com/apac/features/with-generational-change-taiwans-king-steel-transforms-into-an-innovation-and-sustainability-leader/"
+    },
+    "links": [
+      
+      {
+        "type": "external",
+        "url": "https://news.microsoft.com/apac/features/with-generational-change-taiwans-king-steel-transforms-into-an-innovation-and-sustainability-leader/"
+      }
+    ]
+  },
+  {
+    "visible": true,
+    "category": "B2B Tech Marketing",
+    "title": "What You Need to Know About E-bike Battery Safety",
+    "description": "This is an article on e-bike battery safety I wrote for Tern, a bike manufacturing company. I've written multiple articles for Tern and am proud to collaborate with an eco-conscious company truly invested in sustainable transportation.",
+    "tags": ["B2B", "Copywriting", "Sustainability"],
+    "image": {
+      "src": "../../images/tern.jpg",
+      "alt": "Tern e-bike",
+      "linkTo": "https://www.ternbicycles.com/en/explore/what-you-need-know-about-e-bike-battery-safety"
+    },
+    "links": [
+      
+      {
+        "type": "external",
+        "url": "https://www.ternbicycles.com/en/explore/what-you-need-know-about-e-bike-battery-safety"
+      }
+    ]
+  }
+]
+  ,
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Contact me for more samples",
+    "url": "https://www.linkedin.com/feed/"
   }
 }
