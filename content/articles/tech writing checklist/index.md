@@ -7,7 +7,6 @@ banner:
   alt: "Checklist"
   caption: 'Photo by <u><a href="https://unsplash.com/@joannakosinska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joanna Kosinska</a></u>'
   
-  
 categories:
   - "Technical Writing"
 keywords:

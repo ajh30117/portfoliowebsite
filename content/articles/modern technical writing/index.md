@@ -6,7 +6,8 @@ banner:
   src: "../../images/computercode.jpg"
   alt: "Computer code"
   caption: 'Photo by <u><a href="https://unsplash.com/@juanjodev02?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"">Juanjo Jaramillo</a></u>'
-categeories:
+
+categories:
   - "Book Review"
   - "Writing Advice"
   - "Technical Writing"

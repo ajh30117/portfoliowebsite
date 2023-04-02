@@ -6,6 +6,7 @@ banner:
   src: "../../images/alex-eckermann-W_K6j6OQBDg-unsplash.jpg"
   alt: "Design"
   caption: 'Photo by <u><a href="https://unsplash.com/@alexeckermann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Eckermann</a></u>'
+
 categories:
   - "Book Review"
   - "Productivity"

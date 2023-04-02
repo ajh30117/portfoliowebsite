@@ -7,6 +7,7 @@ banner:
   src: "../../images/climatedisaster.jpg"
   alt: "Lightning strikes the ocean"
   caption: 'Photo by <u><a href="https://unsplash.com/@raychelsnr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Raychel Sanner</a></u>'
+
 categories:
   - "Book Review"
   - "Sustainability"
