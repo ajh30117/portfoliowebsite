@@ -26,8 +26,8 @@
       "description": "This is a Getting Started page I wrote (along with all of its child topics) for Trend Vision One's new Phishing Simulation feature. I regularly contribute to the Vision One Online Help for various apps and features. Our documentation toolchain consists of DITA XML, Oxygen, Git/GitHub, and an internal CMS to generate output.",
       "tags": ["Online Help", "Getting Started", "Cybersecurity"],
       "image": {
-        "src": "../../images/anne-nygard-viq9Ztqi3Vc-unsplash.jpg",
-        "caption": "Photo by <u><a href=https://unsplash.com/@polarmermaid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>Anne Nygård</a></u>.",
+        "src": "../../images/phishing.jpg",
+        "caption": "Photo by <u><a href=https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>Markus Spiske</a></u>.",
         "alt": "Phishing",
         "linkTo": "https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/assessment-part/security-assessment/phishing-simulation-/getting-started-phis.aspx"
       },
