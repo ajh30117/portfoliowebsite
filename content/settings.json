@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Anna Humphrey Resume March 2023.pdf"
+        "url": "../../static/portfolioresume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
