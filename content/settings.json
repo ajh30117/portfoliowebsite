@@ -1,13 +1,13 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Anna Humphrey Portfolio",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "siteUrl": "https://annahumphreywriting.com/",
+    "title": "Anna Humphrey Writing Portfolio",
+    "titleTemplate": "%s · Portfolio",
     "description": "Technical writing portfolio website",
     "author": "Anna Humphrey",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "I create content ",
+    "avatar": "../content/images/favicon.png",
+    "bio": "I'm a technical writer and UX writer for commercial SaaS products.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/ajh30117",
