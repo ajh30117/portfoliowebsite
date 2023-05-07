@@ -4,7 +4,7 @@
       "visible": true,
       "category": "TECHNICAL WRITING",
       "title": "1972 Yamaha CS3 Carburetor Removal Manual",
-      "description": "This is an instruction manual I wrote for Saints Cycle Works, a vintage motorcycle shop I worked at. The manual guides a user through basic carburetor removal in preparation for cleaning. The target audience is new bike mechanics or hobbyists.",
+      "description": "I wrote this instruction manual for Saints Engine & Machine, a mechanic shop that specializes in vintage motorcycle restoration (one of my hobbies). The manual guides the user through basic carburetor removal in preparation for cleaning.",
       "tags": ["User Manual", "Instructions"],
       "image": {
         "src": "../../images/yamaha.jpg",
@@ -23,7 +23,7 @@
       "visible": true,
       "category": "TECHNICAL WRITING",
       "title": "Getting Started with Phishing Simulation",
-      "description": "This is a Getting Started page I wrote (along with all of its child topics) for Trend Vision One's new Phishing Simulation feature. I regularly contribute to the Vision One Online Help for various apps and features. Our documentation toolchain consists of DITA XML, Oxygen, Git/GitHub, and an internal CMS to generate output.",
+      "description": "I created the Online Help, including this Getting Started guide, for Trend Vision One's new Phishing Simulation feature. I regularly contribute to the Vision One Online Help for various apps and features. Our documentation toolchain consists of DITA XML, Oxygen, Git/GitHub, and an internal CMS.",
       "tags": ["Online Help", "Getting Started", "Cybersecurity"],
       "image": {
         "src": "../../images/phishing.jpg",
@@ -42,7 +42,7 @@
     "visible": true,
     "category": "B2B Tech Marketing",
     "title": "With generational change, Taiwan’s King Steel transforms into an innovation and sustainability leader",
-    "description": "This is a Microsoft case study on King Steel, a Taiwanese machinery manufacturing company that's helping driving sustainability in the shoe manufacturing industry with their injection molding technology. I edited this piece, and later wrote web copy for King Steel's English website.",
+    "description": "I edited this Microsoft case study on King Steel, a Taiwanese machinery manufacturing company that's helping driving sustainability in the shoe manufacturing industry with their injection molding technology. I've also written web copy for King Steel's English website.",
     "tags": ["B2B", "Editing", "Sustainability"],
     "image": {
       "src": "../../images/kingsteel1.jpg",
@@ -61,7 +61,7 @@
     "visible": true,
     "category": "B2B Tech Marketing",
     "title": "What You Need to Know About E-bike Battery Safety",
-    "description": "This is an article on e-bike battery safety I wrote for Tern, a bike manufacturing company. I've written multiple articles for Tern and am proud to collaborate with an eco-conscious company truly invested in sustainable transportation.",
+    "description": "I wrote this informational article on e-bike battery safety for Tern, a bicycle manufacturing company. I've written multiple articles for Tern and am proud to collaborate with an eco-conscious company truly invested in sustainable transportation.",
     "tags": ["B2B", "Copywriting", "Sustainability"],
     "image": {
       "src": "../../images/tern.jpg",
