@@ -15,6 +15,20 @@
       }
     },
     {
+      "label": "User Experience",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Markdown",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
       "label": "Git and GitHub",
       "image": {
         "src": "",
@@ -22,7 +36,7 @@
       }
     },
     {
-      "label": "User Experience",
+      "label": "Confluence and Jira",
       "image": {
         "src": "",
         "alt": ""
@@ -35,13 +49,13 @@
         "alt": ""
       }
     },
-    
     {
-      "label": "Modern Tech-Stack",
+      "label": "Static Site Generators",
       "image": {
         "src": "../../images/gatsby.png",
         "alt": ""
       }
+      
     }
   ],
   "button": {
