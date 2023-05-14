@@ -4,7 +4,7 @@
       "visible": true,
       "category": "TECHNICAL WRITING",
       "title": "Getting Started with Phishing Simulation",
-      "description": "I created the Online Help, including this Getting Started guide, for Trend Vision One's new Phishing Simulation feature. I regularly contribute to the Vision One Online Help for various apps and features. Our documentation toolchain consists of DITA XML, Oxygen, Git/GitHub, and an internal CMS.",
+      "description": "This is a sample from one of the largest Online Help projects I've completed. Trend Micro integrated their existing Phish Insight product into their Vision One XDR platform as a new Phishing Simulation feature. To document the new Phishing Simulation feature, I first needed to understand the differences between the two products. Then I converted Phish Insight's sparse, outdated Knowledge Base articles into a set of comprehensive docs for Vision One's Online Help Center. Tools used include DITA XML, oXygen, and Git.",
       "tags": ["Online Help", "Getting Started", "Cybersecurity"],
       "image": {
         "src": "../../images/phishing.jpg",
@@ -13,7 +13,7 @@
         "linkTo": "https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/assessment-part/security-assessment/phishing-simulation-/getting-started-phis.aspx"
       },
       "links": [
-        
+
         {
           "type": "external",
           "url": "https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/assessment-part/security-assessment/phishing-simulation-/getting-started-phis.aspx"
@@ -24,7 +24,7 @@
       "visible": true,
       "category": "TECHNICAL WRITING",
       "title": "1972 Yamaha CS3 Carburetor Removal Manual",
-      "description": "I wrote this instruction manual for Saints Engine & Machine, a mechanic shop that specializes in vintage motorcycle restoration (one of my hobbies). The manual guides the user through basic carburetor removal in preparation for cleaning.",
+      "description": "This is an instruction manual I wrote for Saints Engine & Machine, a mechanic shop that specializes in vintage motorcycle restoration. The manual guides the user through removing carburetors for cleaning.",
       "tags": ["User Manual", "Instructions"],
       "image": {
         "src": "../../images/yamaha.jpg",
@@ -43,7 +43,7 @@
     "visible": true,
     "category": "B2B Tech Marketing",
     "title": "With generational change, Taiwan’s King Steel transforms into an innovation and sustainability leader",
-    "description": "I edited this Microsoft case study on King Steel, a Taiwanese machinery manufacturing company that's helping driving sustainability in the shoe manufacturing industry with their injection molding technology. I've also written web copy for King Steel's English website.",
+    "description": "I edited this Microsoft case study on King Steel, a Taiwanese machinery manufacturing company driving sustainability in the shoe manufacturing industry. My edits focused on improving tone, readability, and cohesion.",
     "tags": ["B2B", "Editing", "Sustainability"],
     "image": {
       "src": "../../images/kingsteel1.jpg",
@@ -62,7 +62,7 @@
     "visible": true,
     "category": "B2B Tech Marketing",
     "title": "What You Need to Know About E-bike Battery Safety",
-    "description": "I wrote this informational article on e-bike battery safety for Tern, a bicycle manufacturing company. I've written multiple articles for Tern and am proud to collaborate with an eco-conscious company truly invested in sustainable transportation.",
+    "description": "This is one of several Knowledge Base articles I've written for Tern, an eco-conscious bicycle manufacturing company. The goal for these articles is to share information about products and technology in a compelling and accessable style.",
     "tags": ["B2B", "Copywriting", "Sustainability"],
     "image": {
       "src": "../../images/tern.jpg",
