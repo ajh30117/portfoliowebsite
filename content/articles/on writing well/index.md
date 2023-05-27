@@ -1,6 +1,6 @@
 ---
 title: "Book Review: On Writing Well by William Zinsser"
-description: "Wiliam Zinnser's On Writing Well - book review & four tips for writing well (online)"
+description: "Wiliam Zinnser's On Writing Well - book review & four strategies for writing well (online)"
 date: "2022-08-22"
 banner:
   src: "../../images/onwritingwell.jpg"
@@ -15,15 +15,15 @@ keywords:
   - "Online content"
   - "Good writing"
 ---
-I’ve seen so many people recommend William Zinsser’s book *On Writing Well* to newer writers — particularly copywriters. But the book's first edition is actually 40-something years old, and the way we consume information has changed drastically in that time.
+I’ve seen a lot of people recommend William Zinsser’s book *On Writing Well* to newer writers — particularly copywriters. But the book's first edition is actually 40-something years old, and the way we consume information has changed drastically since then.
 
 So I decided to read through the book zeroing in on the parts most relevant to online content, to consider whether the book is still worthy of its status as a quintessential writing guide. 
 
-My conclusion? *On Writing Well* covers basic ingredients to good writing. But much of its content is oversimplified or outdated. I think aspiring content writers may get more value out of reading newer and more relevant books on writing (like Ann Handley’s *Everybody Writes*). 
+My conclusion? *On Writing Well* covers basic ingredients for good writing. But too much of its content is oversimplified or outdated. I think aspiring content writers may get more value out of reading newer and more relevant books on writing (like Ann Handley’s *Everybody Writes*). 
 
-That said, there are some truly useful tips scattered throughout the book's pages. Good thing I picked them out so you don’t have to.
+That said, there are some truly useful tips scattered throughout the book's chapters. Good thing I picked them out so you don’t have to.
 
-Here are the five most useful tips from Zinsser’s *On Writing Well* to help you create clear and effective digital content.
+Here are four foundational strategies from Zinsser’s *On Writing Well* to help you create clear and effective digital content.
 
 ### 1. Write simply and directly
 
