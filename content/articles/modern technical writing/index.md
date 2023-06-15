@@ -1,5 +1,5 @@
 ---
-title: "Book Review and 8 Essential Practices: Modern Technical Writing by Andrew Etter"
+title: "Book Review: Modern Technical Writing by Andrew Etter"
 description: "Book review and 8 essential practices for writing software documentation, from Andrew Etter's Modern Technical Writing"
 date: "2023-02-05"
 banner:
