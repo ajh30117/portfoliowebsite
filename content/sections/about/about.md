@@ -2,11 +2,9 @@
 imageSrc: "../../images/profile shot.jpg"
 imageAlt: "Profile shot"
 ---
-As a technical writer and copywriter for tech, my goal is always to communicate complex information simply and concisely to a *human* audience. 
+I'm a vision-driven Technical Writer for enterprise software with over three years of experience developing effective documentation and online content solutions for tech products. My specialties and interests include cybersecurity, structured authoring, docs-as-code, web accessibility, open source software, and learning design.
 
-My portfolio contains a diverse range of writing samples including online help pages, user manuals, web copy, and long-form B2B marketing content.
+My goal as a technical writer is to communicate complex information to users in clear, concise, and digestible way. I incorporate ideas from learning design, UX writing, and psychology to deliver high-quality content solutions that empower users to consume information and use products with ease.
 
-My writing style is minimalistic. I focus on writing with fewer words, and more purpose. The results speak for themselves.
-
-My current tech and learning interests are low-code/no-code solutions, static site generators, F/OSS, API documentation, and AI writing.
+My portfolio contains a diverse range of writing samples including online help, user manuals, web copy, blog articles, and B2B marketing content.
 
