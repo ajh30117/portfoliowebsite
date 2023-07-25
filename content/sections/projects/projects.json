@@ -27,8 +27,8 @@
       "description": "This is a technical article on SQLite that I wrote for the website Awesome F/OSS. I regularly contribute to Awesome F/OSS, a site dedicated to exploring the best free and open source projects in the vast universe of open source software. We publish short and digestible articles on new free and open source projects weekly. For these articles, my writing style is concise and functional, but light. Reading about software can be boring. Our goal is to introduce an open source project in an engaging way and give readers a quick rundown on how the project could help them achieve their goals. Article sections include an introduction, As Described by AI, Features, and Getting Started. From there, readers can continue with their own research, jumpstarted by our guidance and plentiful links to external resources.",
       "tags": ["Open Source Software", "Blog Article", "SQL"],
       "image": {
-        "src": "../../images/Sqlite-square-icon.svg.png",
-        "caption": "Photo from <u><a href=https://awsmfoss.com/>Awesome F/OSS</a></u>.",
+        "src": "../../images/logo-mysql.jpg",
+        "caption": "",
         "alt": "SQLite",
         "linkTo": "https://awsmfoss.com/sqlite/"
       },
