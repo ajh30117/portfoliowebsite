@@ -29,6 +29,13 @@
       }
     },
     {
+      "label": "reStructuredText",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
       "label": "Git and GitHub",
       "image": {
         "src": "",
@@ -55,6 +62,7 @@
         "src": "../../images/gatsby.png",
         "alt": ""
       }
+    
       
     }
   ],
