@@ -10,13 +10,13 @@
         "src": "../../images/phishing.jpg",
         "caption": "Photo by <u><a href=https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>Markus Spiske</a></u>.",
         "alt": "Phishing",
-        "linkTo": "https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/assessment-part/security-assessment/phishing-simulation-/getting-started-phis.aspx"
+        "linkTo": "https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-getting-started-phis"
       },
       "links": [
 
         {
           "type": "external",
-          "url": "https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/assessment-part/security-assessment/phishing-simulation-/getting-started-phis.aspx"
+          "url": "https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-getting-started-phis"
         }
       ]
     },
