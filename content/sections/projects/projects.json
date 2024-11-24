@@ -4,11 +4,10 @@
       "visible": true,
       "category": "TECHNICAL WRITING",
       "title": "Getting Started with Phishing Simulation",
-      "description": "This is a sample from one of the largest Online Help projects I've completed. Trend Micro integrated their existing Phish Insight product into their Vision One XDR platform as a new Phishing Simulation feature. To document the new Phishing Simulation feature, I first needed to understand the differences between the two products. Then I converted Phish Insight's sparse, outdated Knowledge Base articles into a set of comprehensive docs for Vision One's Online Help Center. Tools used include DITA XML, oXygen, and Git.",
-      "tags": ["Online Help", "Getting Started", "Cybersecurity"],
+      "description": "BACKGROUND This is a sample from one of the largest Online Help projects I completed while working as a full-time technical and UX writer for Trend Micro. PROBLEM Trend Micro integrated their existing Phish Insight product into their all-in-one Vision One XDR SaaS platform as a new Phishing Simulation feature. I needed to convert existing knowledge base content to Online Help content for the Vision One feature. SOLUTION To document the new Phishing Simulation feature, I first needed to understand the differences between the two products and read all existing knowledge base content for Phish Insight. The knowledge base content was incomplete and outdated. I wrote a comprehensive set of documents for the new Phishing Simulation in Vision One. They were published on the Online Help Center for Vision One.\nTOOLS I wrote the documents in oXygen using DITA XML, then pushed to a docs repository in GitHub, and then published the repository using Umbraco.",
       "image": {
-        "src": "../../images/phishing.jpg",
-        "caption": "Photo by <u><a href=https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>Markus Spiske</a></u>.",
+        "src": "../../images/trendScreenshot.png",
+        "caption": "",
         "alt": "Phishing",
         "linkTo": "https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-getting-started-phis"
       },
@@ -27,7 +26,7 @@
       "description": "This is a technical article on SQLite that I wrote for the website Awesome F/OSS. I regularly contribute to Awesome F/OSS, a site dedicated to exploring the best free and open source projects in the vast universe of open source software. We publish short and digestible articles on new free and open source projects weekly. For these articles, my writing style is concise and functional, but light. Reading about software can be boring. Our goal is to introduce an open source project in an engaging way and give readers a quick rundown on how the project could help them achieve their goals. Article sections include an introduction, As Described by AI, Features, and Getting Started. From there, readers can continue with their own research, jumpstarted by our guidance and plentiful links to external resources.",
       "tags": ["Open Source Software", "Blog Article", "SQL"],
       "image": {
-        "src": "../../images/transparent_sql.png",
+        "src": "../../images/sqliteScreenshot.png",
         "caption": "",
         "alt": "SQLite",
         "linkTo": "https://awsmfoss.com/sqlite/"
@@ -47,7 +46,7 @@
       "description": "This is an instruction manual I wrote for Saints Engine & Machine, a mechanic shop that specializes in vintage motorcycle restoration. The manual guides the user through removing carburetors for cleaning.",
       "tags": ["User Manual", "Instructions"],
       "image": {
-        "src": "../../images/yamaha.jpg",
+        "src": "../../images/motorcycleScreenshot.png",
         "alt": "Quick Setup",
         "linkTo": "https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing"
       },
@@ -62,11 +61,11 @@
   {
     "visible": true,
     "category": "B2B Tech Marketing",
-    "title": "With generational change, Taiwan’s King Steel transforms into an innovation and sustainability leader",
+    "title": "Microsoft Case Study: Taiwan’s King Steel transforms into an innovation and sustainability leader",
     "description": "I edited this Microsoft case study on King Steel, a Taiwanese machinery manufacturing company driving sustainability in the shoe manufacturing industry. My edits focused on improving tone, readability, and cohesion.",
     "tags": ["B2B", "Editing", "Sustainability"],
     "image": {
-      "src": "../../images/kingsteel1.jpg",
+      "src": "../../images/microsoftScreenshot.png",
       "alt": "King Steel employees",
       "linkTo": "https://news.microsoft.com/apac/features/with-generational-change-taiwans-king-steel-transforms-into-an-innovation-and-sustainability-leader/"
     },
@@ -85,7 +84,7 @@
     "description": "This is one of several Knowledge Base articles I've written for Tern, an eco-conscious bicycle manufacturing company. The goal for these articles is to share information about products and technology in a compelling and accessible style.",
     "tags": ["B2B", "Copywriting", "Sustainability"],
     "image": {
-      "src": "../../images/tern.jpg",
+      "src": "../../images/ternScreenshot.png",
       "alt": "Tern e-bike",
       "linkTo": "https://www.ternbicycles.com/en/explore/what-you-need-know-about-e-bike-battery-safety"
     },
