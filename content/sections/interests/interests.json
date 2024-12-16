@@ -15,6 +15,27 @@
       }
     },
     {
+      "label": "HTML and CSS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Static Site Generators",
+      "image": {
+        "src": "",
+        "alt": ""
+      } 
+    },
+    {
+      "label": "Docs-as-code",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
       "label": "User Experience",
       "image": {
         "src": "",
@@ -22,14 +43,7 @@
       }
     },
     {
-      "label": "Markdown",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "reStructuredText",
+      "label": "Markdown and reStructuredText",
       "image": {
         "src": "",
         "alt": ""
@@ -57,13 +71,11 @@
       }
     },
     {
-      "label": "Static Site Generators",
+      "label": "CI/CD",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "",
         "alt": ""
       }
-    
-      
     }
   ],
   "button": {
