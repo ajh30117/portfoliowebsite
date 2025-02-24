@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/profile shot.jpg"
-imageAlt: "Profile shot"
+imageSrc: "../../images/profileblackwhite.jpg"
+imageAlt: "Profile photo"
 ---
 I'm a vision-driven Technical Writer for enterprise software with over three years of experience developing effective documentation and online content solutions for tech products. My specialties and interests include cybersecurity, docs-as-code, web accessibility, and learning design.
 
