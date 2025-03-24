@@ -4,7 +4,7 @@
       "visible": true,
       "category": "TECHNICAL WRITING",
       "title": "Getting Started with Phishing Simulation",
-      "description": "This is a page from one of the largest Online Help projects I completed for Trend Micro. Trend Micro integrated their existing Phish Insight product into their all-in-one Vision One XDR SaaS platform as the new Phishing Simulation feature. My task was to convert existing Phish Insight knowledge base content to Online Help for Phishing Simulation. To do this, I needed to understand the differences between the two products and read all existing knowledge base content for Phish Insight. The Phish Insight knowledge base was incomplete and outdated, so I wrote a comprehensive set of documents for the new Phishing Simulation in Vision One. The docs were published on Vision One's Online Help Center. I wrote the documents in oXygen using DITA XML, then pushed to a docs repository in GitHub, and then published the repository using Umbraco.",
+      "description": "The Phishing Simulation Assessment documentation is a large project I completed at Trend Micro. Trend's Phish Insight product was integrated as a new feature into the Vision One XDR SaaS platform. I converted the outdated Phish Insight knowledge base articles to Phishing Simulation online help articles for Trend Vision One, which required an intial cross-analysis between the two products and then adding and rewriting content. I wrote the Phishing Simulation Assessment topic and all child topics. Tools used include oXygen with DITA XML, Git/GitHub, and Umbraco.",
       "image": {
         "src": "../../images/trendScreenshot.png",
         "caption": "",
