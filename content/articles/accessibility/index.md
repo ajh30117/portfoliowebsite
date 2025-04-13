@@ -1,7 +1,7 @@
 ---
 title: "Technical Writing for Web Accessibility: Guidelines and Resources"
 description: "How to write accessible documentation, with resources for learning more"
-date: "2025-4-12"
+date: "2025-04-12"
 banner:
   src: "../../images/accessibility.jpg"
   alt: "Design"
@@ -215,7 +215,7 @@ Interactive elements such as forms, buttons, and navigation menus must be usable
 * [Google developer documentation style guide](https://developers.google.com/style/accessibility) \- accessibility guidelines in Google’s developer documentation style guide  
 * [APA Style](https://apastyle.apa.org/style-grammar-guidelines/paper-format/accessibility) \- accessibility guidelines in the APA style guide
 
-**Miscellaneous resources from various organizations:**
+**Miscellaneous resources:**
 
 * [Atlassian Design System \- Inclusive Writing](https://atlassian.design/content/inclusive-writing)   
 * [Google’s Developer Style Guide on Inclusive Documentation](https://developers.google.com/style/inclusive-documentation)  
