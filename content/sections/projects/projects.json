@@ -3,6 +3,25 @@
     {
       "visible": true,
       "category": "TECHNICAL WRITING",
+      "title": "Zendesk Help Center for Green Security",
+      "description": "I structured, designed, and wrote the content for Green Security's new Zendesk-powered help center. I interviewed developers and SMEs and sorted through the product's outdated FAQs to transform old and incomplete content into categorized sets of accurate, concise, and searchable help articles that make it easy for users to find the answers they need.",
+      "image": {
+        "src": "../../images/green_security.png",
+        "caption": "",
+        "alt": "Green Security's Help Center home page",
+        "linkTo": "https://greensecurity.zendesk.com/hc/en-us"
+      },
+      "links": [
+
+        {
+          "type": "external",
+          "url": "https://greensecurity.zendesk.com/hc/en-us"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "TECHNICAL WRITING",
       "title": "Getting Started with Phishing Simulation",
       "description": "The Phishing Simulation Assessment documentation is a large project I completed at Trend Micro. Trend's Phish Insight product was integrated as a new feature into the Vision One XDR SaaS platform. I converted the outdated Phish Insight knowledge base articles to Phishing Simulation online help articles for Trend Vision One, which required an intial cross-analysis between the two products and then adding and rewriting content. I wrote the Phishing Simulation Assessment topic and all child topics. Tools used include oXygen with DITA XML, Git/GitHub, and Umbraco.",
       "image": {
