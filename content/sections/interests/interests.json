@@ -1,5 +1,12 @@
 {
   "interests": [
+      {
+      "label": "Web Accessibility",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
     {
       "label": "Structured Authoring",
       "image": {
