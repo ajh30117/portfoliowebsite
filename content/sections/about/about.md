@@ -6,7 +6,7 @@ I'm a Technical Writer for software with experience developing documentation and
 
 As a writer, my goal is always to communicate complex information to people in a clear, concise, and reader-centric way. I draw from learning design, UX writing, and psychology to create high-quality content that empowers people to use products easily and with as little friction as possible. I also strive to create accessible content, and I'm certified in W3C's WCAG web accessibility fundamentals. 
 
-Tools I use the most include docs-as-code tools, Microsoft Suite, DITA XML, Markdown, and Zendesk. I also have experience setting up static websites. I built this portfolio site using Gatsby and host it on Netlify.
+Tools I use the most are docs-as-code tools, Microsoft Suite, DITA XML, Markdown, Read the Docs, and Zendesk. I'm also experienced with static site generators like Gatsby and Sphinx. I built this portfolio site using Gatsby, edit in VS Code, manage version control with Git, and host it on Netlify.
 
-Scroll down for writing samples of online help articles, user manuals, web copy, blog posts, and B2B marketing content.
+Scroll down for writing samples including online help articles, user manuals, web copy, blog posts, and B2B marketing content.
 
