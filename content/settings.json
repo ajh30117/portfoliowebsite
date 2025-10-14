@@ -10,11 +10,11 @@
     "avatar": "../content/images/favicon.png",
     "bio": "I'm a technical writer and UX writer for commercial SaaS products.",
     "social": {
-      "behance": "https://behance.com",
+      "behance": "",
       "github": "https://github.com/ajh30117",
       "linkedin": "https://www.linkedin.com/in/anna-j-humphrey/",
       "medium":"",
-      "mail": "mailto:ajh30117@gmail.com"
+      "mail": "mailto:anna@ajhtechwriting.com"
     }
   },
   "siteConfiguration": {
