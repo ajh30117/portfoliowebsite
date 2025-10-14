@@ -52,7 +52,7 @@
       },
       "links": [
 
-        {
+        { 
           "type": "external",
           "url": "https://awsmfoss.com/sqlite/"
         }

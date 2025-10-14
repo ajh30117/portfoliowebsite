@@ -2,9 +2,11 @@
 imageSrc: "../../images/profileblackwhite2.jpg"
 imageAlt: "Profile photo"
 ---
-I'm a vision-driven Technical Writer for enterprise software with over four years of experience developing effective documentation and online content solutions for tech products. My specialties and interests include healthcare management software, docs-as-code, web accessibility, and learning design.
+I'm a Technical Writer for software with experience developing documentation and online content solutions for a wide range of products. I've worked full-time in cybersecurity software and clinical management software. And I've created documentation and content for over a dozen freelance clients like Contentstack, Green Security, and Tern Bicycles. 
 
-My goal as a technical writer is always to communicate complex information to users in a clear, concise, and digestible way. I incorporate ideas from learning design, UX writing, and psychology to deliver high-quality content solutions that empower users to consume information and use products with ease.
+As a writer, my goal is always to communicate complex information to people in a clear, concise, and reader-centric way. I draw from learning design, UX writing, and psychology to create high-quality content that empowers people to use products easily and with as little friction as possible. I also strive to create accessible content, and I'm certified in W3C's WCAG web accessibility fundamentals. 
 
-My portfolio contains a diverse range of writing samples including online help, user manuals, web copy, blog articles, and B2B marketing content.
+Tools I use the most include docs-as-code tools, Microsoft Suite, DITA XML, Markdown, and Zendesk. I also have experience setting up static websites. I built this portfolio site using Gatsby and host it on Netlify.
+
+Scroll down for writing samples of online help articles, user manuals, web copy, blog posts, and B2B marketing content.
 
