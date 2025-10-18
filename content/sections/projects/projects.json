@@ -3,13 +3,15 @@
     {
       "visible": true,
       "category": "TECHNICAL WRITING",
-      "title": "Zendesk Help Center for Green Security",
-      "description": "I structured, designed, and wrote the content for Green Security's new Zendesk-powered help center. I interviewed developers and SMEs and sorted through the product's outdated FAQs to transform old and incomplete content into categorized sets of accurate, concise, and searchable help articles that make it easy for users to find the answers they need.",
+      "title": "Zendesk Help Center",
+      "description": "Green Security lacked a comprehensive help center for their hospital credentialing SaaS platform, despite the software containing lots of moving parts and complex user workflows. I sorted through pieces of existing FAQ content and interviewed developers and other SMEs to create categorized sets of updated, accurate, and user-friendly help articles that make it easy for hospital employees and vendors to find the answers they need in a central and searchable location.",
+      "tags": ["Knowledge Base", "Zendesk", "Product Documentation"],
+
       "image": {
-        "src": "../../images/green_security.png",
+        "src": "../../images/green_security_casestudy.png",
         "caption": "",
-        "alt": "Green Security's Help Center home page",
-        "linkTo": "https://greensecurity.zendesk.com/hc/en-us"
+        "alt": "Case Study Google Doc",
+        "linkTo": "https://docs.google.com/document/d/1cL56TKHMvMBPpffW_oR1mOHpyMdocj_Z/edit?usp=sharing&ouid=110576338772023677674&rtpof=true&sd=true"
       },
       "links": [
 
