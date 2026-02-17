@@ -2,13 +2,13 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://annahumphreywriting.com/",
-    "title": "Anna Humphrey Writing Portfolio",
+    "title": "Anna Humphrey Writing",
     "titleTemplate": "%s · Anna Humphrey",
-    "defaultTitle": "Anna Humphrey Writing Portfolio",
-    "description": "Technical writing portfolio website",
+    "defaultTitle": "Anna Humphrey Writing",
+    "description": "",
     "author": "Anna Humphrey",
     "avatar": "../content/images/favicon.png",
-    "bio": "I'm a technical writer and UX writer for commercial SaaS products.",
+    "bio": "",
     "social": {
       "behance": "",
       "github": "https://github.com/ajh30117",
@@ -32,8 +32,8 @@
         "url": ""
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "", "url": "/privacy" },
+        { "label": "", "url": "/imprint" }
       ]
     },
     "featureToggles": {
