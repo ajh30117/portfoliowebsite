@@ -2,9 +2,9 @@
 imageSrc: "../../images/profileblackwhite2.jpg"
 imageAlt: "Profile photo"
 ---
-I'm a Technical Writer for software with experience developing documentation and online content solutions for a wide range of products. I've worked full-time in cybersecurity software and clinical management software. And I've created documentation and content for over a dozen freelance clients like Contentstack, Green Security, and Tern Bicycles. 
+I'm a technical writer focused on developing and leading documentation solutions for software companies. I previously worked full-time in cybersecurity software and clinical management software before transitioning to full-time contracting. I learned a lot working in large documentation/UX teams, but I also enjoy the creativity and problem-solving that comes with leading documentation projects independently.
 
-As a writer, my goal is always to communicate complex information to people in a clear, concise, and reader-centric way. I draw from learning design, UX writing, and psychology to create high-quality content that empowers people to use products easily and with as little friction as possible. I also strive to create accessible content, and I'm certified in W3C's WCAG web accessibility fundamentals. 
+My goal as a writer is always to communicate complex information to people in a clear, concise, and reader-centric way. I've studied learning design, UX writing, and psychology, and use knowledge from those fields to create high-quality writing that empowers people to process information and use technology with as little friction as possible. I also strive to create accessible content, and I'm certified in W3C's WCAG web accessibility fundamentals. 
 
 Tools I use the most are docs-as-code tools, Microsoft Suite, DITA XML, Markdown, Read the Docs, and Zendesk. I'm also experienced with static site generators like Gatsby and Sphinx. I built this portfolio site using Gatsby, edit in VS Code, manage version control with Git, and host it on Netlify.
 
