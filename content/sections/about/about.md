@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/profileblackwhite2.jpg"
+imageSrc: "../../images/profileglasses2.jpg"
 imageAlt: "Profile photo"
 ---
 I'm a technical writer focused on developing and leading documentation solutions for software companies. I previously worked full-time in cybersecurity software and clinical management software before transitioning to full-time contracting. I learned a lot working in large documentation/UX teams, but I also enjoy the creativity and problem-solving that comes with leading documentation projects independently.
