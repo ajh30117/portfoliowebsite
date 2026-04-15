@@ -43,6 +43,25 @@
     {
       "visible": true,
       "category": "TECHNICAL WRITING",
+      "title": "Product Updates/Release Notes",
+      "description": "I write and publish Green Security's external product updates and internal release notes. For external (user) product updates like this sample, I review the technical notes sourced from JIRA tickets and translate them into user and business friendly summaries of what's changed in Green Security's applications, for both vendor users and hospital employee users. My biggest priorities for user release nots are: keep entries short, use a logical structure, highlight major improvements, include relevant links or screenshots, and reflect the company's brand and personality.",
+      "image": {
+        "src": "../../images/release_notes_portfolio.png",
+        "caption": "",
+        "alt": "Release Notes",
+        "linkTo": "https://greensecurity.zendesk.com/hc/en-us/articles/42669204863259-Product-Updates-10-22-2025"
+      },
+      "links": [
+
+        {
+          "type": "external",
+          "url": "https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-getting-started-phis"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "TECHNICAL WRITING",
       "title": "Introduction to SQLite",
       "description": "This is a technical article on SQLite that I wrote for the website Awesome F/OSS. I regularly contribute to Awesome F/OSS, a site dedicated to exploring the best free and open source projects in the vast universe of open source software. We publish short and digestible articles on new free and open source projects weekly. For these articles, my writing style is concise and functional, but light. Reading about software can be boring. Our goal is to introduce an open source project in an engaging way and give readers a quick rundown on how the project could help them achieve their goals. Article sections include an introduction, As Described by AI, Features, and Getting Started. From there, readers can continue with their own research, jumpstarted by our guidance and plentiful links to external resources.",
       "tags": ["Open Source Software", "Blog Article", "SQL"],
