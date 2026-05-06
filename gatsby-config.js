@@ -18,6 +18,7 @@ module.exports = {
           path: "/blog", // Defines the slug for the blog listing page
           usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
         },
+        
         // googleAnalytics: {
         //     trackingId: "UA-XXXXXX-X",
         //     anonymize: true, // Default true
@@ -25,5 +26,14 @@ module.exports = {
         // }
       },
     },
+    {
+      resolve: "gatsby-plugin-simple-analytics",
+      options: {
+        trackPageViews: true,
+        events: true,
+        eventsGlobal: "sa_event",
+        ignorePages: ["pathname"],
+    },
+  },
   ],
 };
