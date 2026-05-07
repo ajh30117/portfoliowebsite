@@ -47,7 +47,7 @@ You need to regularly audit knowledge base content not just for what’s missing
 
 When you’re identifying content needs, also create a minimum viable style guide, content templates, and controlled vocabularies for your product and for customer communications. By assigning clear ownership to a person or team who will consistently apply these standards, you ensure consistency across the knowledge base. This is easier than trying to wrangle numerous contributors from different teams into writing in the same way and with the same wording.
 
-Example: As the Knowledge Manager for a client, every time a new biweekly release comes out, I not only write the release notes but also update the knowledge base depending on what’s changed in the product. This ensures the help content is always up to date. And because I’m the owner of the knowledge base and all the content there, I have a thorough understanding of how the release and release notes affect knowledge content, so it’s a quick and painless job for me to go through and make updates.
+**Example:** As the Knowledge Manager for a client, every time a new biweekly release comes out, I not only write the release notes but also update the knowledge base depending on what’s changed in the product. This ensures the help content is always up to date. And because I’m the owner of the knowledge base and all the content there, I have a thorough understanding of how the release and release notes affect knowledge content, so it’s a quick and painless job for me to go through and make updates.
 
 ## Consider context of use <a name="consider-context-of-use"></a>
 
