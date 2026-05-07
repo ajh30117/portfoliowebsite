@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-portfolio-minimal-theme",
   "version": "1.0.0",
-  "description": "Anna Humphrey technical writing portfolio",
+  "description": "Anna Humphrey portfolio",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
@@ -39,7 +39,12 @@
     "minimal",
     "animations",
     "dark-mode",
-    "gdpr-compliant"
+    "gdpr-compliant",
+    "freelance technical writer",
+    "knowledge manager",
+    "contract technical writing",
+    "content developer"
+
   ],
   "devDependencies": {
     "gatsby-plugin-simple-analytics": "^1.0.4"
