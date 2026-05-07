@@ -23,9 +23,9 @@ keywords:
 ---
 # Applying Information Architecture (IA) Principles to a Knowledge Base
 
-## High impact ways to create a user-centered knowledge base using information architecture principles
+## High-impact ways to use IA principles to create a user-centered knowledge base
 
-As a technical writer who often works independently on client projects, I’m often tasked with not just writing knowledge content, but organizing and structuring it effectively. This article explains the fundamental principles of IA and how I apply those principles to building, structuring, and managing a knowledge base designed to be user-centric.
+As a technical writer who often works independently on company documentation, I’m often responsible for not just writing knowledge content, but organizing and structuring it effectively. This article explains the fundamental principles of IA and how I apply those principles to building, structuring, and managing a knowledge base designed to be user-centric.
 
 A lot of information in this article is drawn from the classic IA staple *Information Architecture* by Louis Rosenfeld, Peter Morville, and Jorge Arango and the course *Information Architecture (IA) Fundamentals* by Joe Natoli. As well as my experience working as a lead technical writer on many projects and witnessing what works for users and what doesn't.
 
