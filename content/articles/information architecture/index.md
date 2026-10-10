@@ -53,7 +53,7 @@ When identifying content needs, it's also a good idea to create a minimum viable
 
 The context in which people interact with your content, navigation, and information structures define whether people can make sense of what you give them.
 
-There are five states that affect context. I've listed them below along with some examples of how they might affect content design.
+There are five states that affect context. I've listed them below along with some real examples of how they affect content design.
 
 * **(Physical)** Will people be reading from a mobile device? If so, make sure the site has good mobile responsive design.  
 * **(Environmental)** Will people be reading content in sunlight or under bright overhead lighting? If so, make sure the content has good contrast with the background and the text is large enough.  
