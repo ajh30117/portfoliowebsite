@@ -57,7 +57,7 @@ There are five states that affect context. I've listed them below along with som
 
 * **(Physical)** Will people be reading from a mobile device? If so, make sure the site has good mobile responsive design.  
 * **(Environmental)** Will people be reading content in sunlight or under bright overhead lighting? If so, make sure the content has good contrast with the background and the text is large enough.  
-* **(Preferential)** Do readers prefer video or text content? Do they prefer a lot of screenshots and UX guidance, or are they more technical and prefer less guidance?  
+* **(Preferential)** Do readers prefer video or text content? Do they prefer a lot of screenshots and guidance, or are they more technical and prefer less guidance?  
 * **(Emotional)** What’s motivating readers to use the site? Are they looking for more information? Are they stressed out and troubleshooting a common problem? Maybe it’s a known UX problem that isn’t their fault? Use appropriate language, tone, and empathy depending on the situation.  
 * **(Cognitive)** Who is your audience? Are you addressing a narrow, defined group of people or a broader audience? What do they already know about your product or technology? Make sure to tailor content to those needs.
 
