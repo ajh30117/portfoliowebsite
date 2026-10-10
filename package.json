@@ -18,7 +18,8 @@
     "gatsby-transformer-remark": "^6.16.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
+ },
+  
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
@@ -48,5 +49,9 @@
   ],
   "devDependencies": {
     "gatsby-plugin-simple-analytics": "^1.0.4"
+  },
+  
+  "overrides": {
+    "sanitize-html": "2.11.0"
   }
 }
